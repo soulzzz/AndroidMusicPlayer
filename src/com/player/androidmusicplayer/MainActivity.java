@@ -23,13 +23,6 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.MediaController.MediaPlayerControl;
 
-/*
- * This is demo code to accompany the Mobiletuts+ series:
- * Android SDK: Creating a Music Player
- * 
- * Sue Smith - February 2014
- */
-
 public class MainActivity extends Activity implements MediaPlayerControl {
 
 	//song list variables
